@@ -1,0 +1,136 @@
+body {
+    background-image: url(https://www.zingerbug.com/Backgrounds/background_images/black_brick_wall_background_1800x1600.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-top: 0;
+}
+
+.unifrakturmaguntia-regular {
+    font-family: "UnifrakturMaguntia", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+header{
+    font-family: "UnifrakturMaguntia";
+    color: black;
+    text-align: center;
+    background-color: purple;
+    padding-top: 1%;
+    padding-bottom: 5px;
+    border-bottom: 2px solid black;
+}
+
+#link{
+    color: black;
+}
+
+#link:hover{
+    color: blue;
+}
+
+span{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#main{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+    padding-left: 1%;
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 10px;
+}
+
+#imagen1 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: justify;
+    color: black;
+}
+
+h3 {
+    margin-top: 0;
+    text-decoration: underline;
+    color: black;
+}
+
+ul {
+    color: black;
+}
+
+#contenido {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+#lista {
+    margin-right: 15px;
+}
+
+#imagen {
+    display: flex;
+    justify-content: left;
+    padding-left: 150px;
+}
+
+#contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+#textos{
+   padding-left: 10px;
+   margin: 0;
+}
+
+#textos2{
+    padding: 0;
+    margin: 0;
+}
+
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+
+td{
+    border: 3px solid black;
+    padding: 5px;
+    background-color: white;
+}
+
+.datos{
+    margin: 0%;
+    padding: 0%;
+}
+
+.glosariotitle{
+    font-size: 200%;
+    font-weight: bold;
+    column-span: 3;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.num {
+    font-weight: bold;
+    text-align: center;
+    padding: 3px;
+    margin: 3px;
+}
